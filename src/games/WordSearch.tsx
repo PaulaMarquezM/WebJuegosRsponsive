@@ -180,7 +180,7 @@ export default function WordSearch() {
               onClick={resetGame}
               className="bg-gradient-to-r from-green-500 to-emerald-500 text-white px-8 py-4 rounded-xl font-bold hover:from-green-600 hover:to-emerald-600 active:scale-95 transition-all shadow-lg text-lg"
             >
-              Jugar de nuevo 🔄
+              Jugar de nuevo
             </button>
           </div>
         </div>
