@@ -18,7 +18,7 @@ function App() {
           <div className="flex items-center gap-2">
             <span className="text-2xl">🧠</span>
             <h1 className="font-black text-xl sm:text-2xl tracking-tight">
-              BrainPlay
+              PiensaPues
             </h1>
           </div>
           

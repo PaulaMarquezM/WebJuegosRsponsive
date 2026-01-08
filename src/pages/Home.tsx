@@ -9,7 +9,7 @@ export default function Home({ onStart }: HomeProps) {
         {/* Título con animación de gradiente */}
         <div className="mb-8">
           <h2 className="text-5xl sm:text-6xl md:text-7xl font-extrabold bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 bg-clip-text text-transparent mb-4 animate-pulse">
-            BrainPlay
+            PiensaPues
           </h2>
           <div className="text-6xl sm:text-7xl md:text-8xl mb-6">🧠✨</div>
         </div>
